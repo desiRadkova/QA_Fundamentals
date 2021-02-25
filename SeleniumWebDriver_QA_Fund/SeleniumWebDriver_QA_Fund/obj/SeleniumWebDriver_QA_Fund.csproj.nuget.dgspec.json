@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\radon2o\\source\\repos\\SeleniumWebDriver_QA_Fund\\SeleniumWebDriver_QA_Fund\\SeleniumWebDriver_QA_Fund.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\radon2o\\source\\repos\\SeleniumWebDriver_QA_Fund\\SeleniumWebDriver_QA_Fund\\SeleniumWebDriver_QA_Fund.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\radon2o\\source\\repos\\SeleniumWebDriver_QA_Fund\\SeleniumWebDriver_QA_Fund\\SeleniumWebDriver_QA_Fund.csproj",
+        "projectName": "SeleniumWebDriver_QA_Fund",
+        "projectPath": "C:\\Users\\radon2o\\source\\repos\\SeleniumWebDriver_QA_Fund\\SeleniumWebDriver_QA_Fund\\SeleniumWebDriver_QA_Fund.csproj",
+        "packagesPath": "C:\\Users\\radon2o\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\radon2o\\source\\repos\\SeleniumWebDriver_QA_Fund\\SeleniumWebDriver_QA_Fund\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\radon2o\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[88.0.4324.9600, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
